@@ -1,0 +1,8 @@
+{
+  "name": "3D Card Presentation Pro",
+  "description": "A high-performance 3D card presentation tool with editable front/back content, interactive elements, and an immersive particle background.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
