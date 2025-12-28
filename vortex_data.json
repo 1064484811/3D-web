@@ -1,0 +1,55 @@
+[
+  {
+    "id": "1",
+    "title": "AI +IP",
+    "backDescription": "拖动背景来旋转卡牌组。快速拖拽可产生惯性。",
+    "frontItems": [
+      {
+        "id": "i1",
+        "type": "text",
+        "x": 10,
+        "y": 10,
+        "width": 80,
+        "height": 20,
+        "content": "6666666666666666666666666"
+      },
+      {
+        "id": "m2d5ird1c",
+        "type": "video",
+        "x": 11.241702400263366,
+        "y": 44.63987411961631,
+        "width": 70,
+        "height": 40,
+        "content": "./components/media_m2d5ird1c.mp4"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "AI+3D",
+    "backDescription": "模拟真实的物理阻尼，滑动体验极其丝滑。",
+    "frontItems": [
+      {
+        "id": "ffphvwujt",
+        "type": "video",
+        "x": 15,
+        "y": 15,
+        "width": 70,
+        "height": 40,
+        "content": "./components/media_ffphvwujt.mp4"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "聚焦视界",
+    "backDescription": "点击卡片，它会从星系中飞向你，呈现巨幕效果。",
+    "frontItems": []
+  },
+  {
+    "id": "4",
+    "title": "智能创作",
+    "backDescription": "利用 AI 润色你的每一张幻灯片。",
+    "frontItems": []
+  }
+]
